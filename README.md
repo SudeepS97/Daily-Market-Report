@@ -30,7 +30,8 @@ Run the <code> market_report.py </code> script, listing at minimum the sender em
 Plotting details can be configured in <code> utils/plotter.py </code> if you want to customize them.
 
 The email will return an overview table and individual candlestick charts:
-![image](https://user-images.githubusercontent.com/32913961/127759110-8be37f06-dc29-4ea4-9b32-ac87bde0336d.png)
+![image](https://user-images.githubusercontent.com/32913961/127759132-6d39c841-3a52-4204-b600-5c62c35f2948.png)
+
 
 ## Args
 Required Args:

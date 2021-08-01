@@ -14,7 +14,6 @@ class Reporter(object):
         self.port = port
         self.subject = subject
         self.msgRoot = None
-        # self.html = ''
 
     def build_message(self, preamble='End of Message'):
         self.msgRoot = MIMEMultipart('related')

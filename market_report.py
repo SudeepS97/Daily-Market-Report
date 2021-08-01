@@ -2,7 +2,7 @@ import os
 import argparse
 import pandas as pd
 import datetime as dt
-from utils.inputs import stocks
+from config.inputs import stocks
 from utils.market_data_puller import get_stock_data, calc_market_stats
 from utils.plotter import get_plot_price_movement, save_plot_as_image
 from utils.reporter import Reporter

@@ -12,7 +12,7 @@ Consolidated email report displaying market information on configured stocks
 Reporting script that emails a table of price/volume stats and individual candlestick charts for a list of configurable stocks.
 
 ## Requirements
-* An email account to send the reports from (if using gmail, you will need to use an account without two-factor authentication and less secure apps toggled ON: https://myaccount.google.com/u/1/lesssecureapps
+* An email account to send the reports from (if using gmail, you will need to use an account without two-factor authentication and less secure apps toggled ON: https://myaccount.google.com/u/1/lesssecureapps)
 * See requirements.txt for dependencies
 
 ## Installation

@@ -13,7 +13,7 @@ Reporting script that emails a table of price/volume stats and individual candle
 
 ## Requirements
 * An email account to send the reports from (if using gmail, you will need to use an account without two-factor authentication and less secure apps toggled ON: https://myaccount.google.com/u/1/lesssecureapps
-* See Requirements.txt for dependencies
+* See requirements.txt for dependencies
 
 ## Installation
 Clone the repo to somewhere on your desktop

@@ -19,7 +19,7 @@ Reporting script that emails a table of price/volume stats and individual candle
 Clone the repo to somewhere on your desktop
 <code> git clone https://github.com/SudeepS97/Daily-Market-Report.git </code>
 
-Configure the stocks you want to receive in your report in <code> utils/inputs.py </code>
+Configure the stocks you want to receive in your report in <code> config/inputs.py </code>
 
 ## Usage
 The report allows for an easy way to see how your watchlist performed on a given day, in an easily-automatable email.

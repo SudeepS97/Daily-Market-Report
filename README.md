@@ -43,4 +43,4 @@ Optional Args:
 * <code>-i, --img_path, default='images/'</code>
 * <code>-e, --host, default='smtp.gmail.com'</code>
 * <code>-n, --port, default=587</code>
-* <code>-t, --subject, default='Daily Market Report (<DATE>)</code>
+* <code>-t, --subject, default='Daily Market Report (DATE)</code>

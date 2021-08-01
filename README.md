@@ -35,12 +35,12 @@ The email will return an overview table and individual candlestick charts:
 
 ## Args
 Required Args:
-* -s, --sender
-* -p, --password
-* -r, --receiver
+* <code>-s, --sender</code>
+* <code>-p, --password</code>
+* <code>-r, --receiver</code>
 
 Optional Args:
-* -i, --img_path, default='images/'
-* -e, --host, default='smtp.gmail.com'
-* -n, --port, default=587
-* -t, --subject, default='Daily Market Report (<DATE>)
+* <code>-i, --img_path, default='images/'</code>
+* <code>-e, --host, default='smtp.gmail.com'</code>
+* <code>-n, --port, default=587</code>
+* <code>-t, --subject, default='Daily Market Report (<DATE>)</code>

@@ -18,7 +18,7 @@ parser.add_argument('-p', '--password', type=str)
 parser.add_argument('-r', '--receiver', type=str)
 parser.add_argument('-e', '--host', type=str, default="smtp.gmail.com")
 parser.add_argument('-n', '--port', type=int, default=587)
-parser.add_argument('-t', '--subject', type=str, default='Daily Market Report (' + str(dt.date.now()) + ')')
+parser.add_argument('-t', '--subject', type=str, default='Daily Market Report (' + str(dt.datetime.now().date()) + ')')
 args = parser.parse_args()
 
 img_path = args.img_path
